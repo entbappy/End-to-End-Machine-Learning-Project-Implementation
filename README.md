@@ -8,6 +8,11 @@
 3. Git: https://git-scm.com/
 
 
+### Database used:
+
+- MongoDB: https://account.mongodb.com/account/login
+
+
 
 ## How to run?
 
